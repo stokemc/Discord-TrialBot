@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Private folder for passwords, tokens, etc
+private/*
+
 # C extensions
 *.so
 
